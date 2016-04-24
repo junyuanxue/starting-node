@@ -9,7 +9,13 @@
   "author": "Junyuan Xue",
   "license": "ISC",
   "devDependencies": {
+    "chai": "^3.5.0",
     "grunt": "^1.0.1",
-    "jasmine-node": "^1.14.5"
+    "grunt-webdriver": "^1.0.0",
+    "jasmine-node": "^1.14.5",
+    "mocha": "^2.4.5",
+    "selenium-standalone": "^5.1.0",
+    "webdriver": "0.0.1",
+    "webdriverio": "^4.0.5"
   }
 }
